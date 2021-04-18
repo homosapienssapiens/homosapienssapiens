@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning time series
 - 💞️ I’m looking to collaborate on amazing projects.
 - 📫 How to reach me:
-          - Email: mike@solis.rocks
+-- Email: mike@solis.rocks
           - Twitter, TikTok: @elviajeligero
           - Yotube: https://www.youtube.com/channel/UClpbrkPbh5xhvWHDvIIA8Yg
 
