@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @homosapienssapiens
+- 👋 Hi, I’m Miguel
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning time series
 - 💞️ I’m looking to collaborate on amazing projects.
