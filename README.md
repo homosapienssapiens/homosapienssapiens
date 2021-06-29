@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Miguel
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning Natural Language Processing
+- 🌱 I’m currently learning neural networks
 - 💞️ I’m looking to collaborate on amazing projects.
 - 📫 How to reach me:
           - Email: mike@solis.rocks
