@@ -6,7 +6,7 @@
   * Email: mike@solis.rocks
   * [Twitter](https://twitter.com/elviajeligero)
   * [LinkedIn](https://www.linkedin.com/in/miguel-solis-52381a24/)
-  * Yotube: https://www.youtube.com/channel/UClpbrkPbh5xhvWHDvIIA8Yg
+  * [Youtube](https://www.youtube.com/channel/UClpbrkPbh5xhvWHDvIIA8Yg)
 
 <!---
 homosapienssapiens/homosapienssapiens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
