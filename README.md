@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning neural networks
 - 💞️ I’m looking to collaborate on amazing projects.
 - 📫 How to reach me:
-          * Email: mike@solis.rocks
-          * [Twitter](https://twitter.com/elviajeligero)
-          * [LinkedIn](https://www.linkedin.com/in/miguel-solis-52381a24/)
-          * Yotube: https://www.youtube.com/channel/UClpbrkPbh5xhvWHDvIIA8Yg
+  * Email: mike@solis.rocks
+  * [Twitter](https://twitter.com/elviajeligero)
+  * [LinkedIn](https://www.linkedin.com/in/miguel-solis-52381a24/)
+  * Yotube: https://www.youtube.com/channel/UClpbrkPbh5xhvWHDvIIA8Yg
 
 <!---
 homosapienssapiens/homosapienssapiens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
