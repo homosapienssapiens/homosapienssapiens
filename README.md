@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Miguel
-- 👀 I’m interested in data science
-- 🌱 I’m currently writing my thesis which is about Active Learning in NLP projects in spanish.
+- 👀 I’m a data scientist.
+- 🌱 I’m currently learning about making art with programming and NFTs.
 - 💞️ I’m looking to collaborate on amazing projects.
 - 📫 How to reach me:
   * Email: mike@solis.rocks
