@@ -5,6 +5,7 @@
 - 📫 How to reach me:
   * Email: mike@solis.rocks
   * [LinkedIn](https://www.linkedin.com/in/miguel-solis-52381a24/)
+  * [Kaggle] (https://www.kaggle.com/soliso)
   * [Youtube](https://www.youtube.com/channel/UClpbrkPbh5xhvWHDvIIA8Yg)
 
 <!---
