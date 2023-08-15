@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Miguel
 - 👀 I’m a data scientist.
-- 🌱 I’m currently learning about LLMs.
+- 🌱 I’m currently learning about Langchain.
 - 💞️ I’m looking to collaborate on amazing projects.
 - 📫 How to reach me:
   * Email: mike@solis.rocks
