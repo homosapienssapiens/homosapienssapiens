@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Miguel
-- 👀 I’m a data scientist.
-- 🌱 I’m currently learning about Langchain, vector databases and LLMs.
-- 💞️ Cooking a couple of cool AI projects.
+- 👀 I’m a data scientist, AI engineer ML engineer.
+- 🌱 I’m currently learning about Azure Document Intelligence.
+- 💞️ Cooking a cnew app.
 - 📫 How to reach me:
   * Email: mike@solis.rocks
 
