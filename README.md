@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Miguel
 - 👀 I’m a data scientist, AI engineer ML engineer.
-- 🌱 I’m currently learning about Azure Document Intelligence.
-- 💞️ Cooking a cnew app.
+- 🌱 I’m currently learning about Gunpla.
+- 💞️ Cooking a new app.
 - 📫 How to reach me:
   * Email: mike@solis.rocks
 
